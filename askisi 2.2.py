@@ -1,0 +1,11 @@
+a=12.72
+b=6.189
+c=1.11-3.2j
+print(type(c))
+ksum=a+b/c
+sub=a-b*c
+print(ksum,sub)
+print("\n")
+d=(a+b)/c
+v=(a-b)*c
+print(d,v)
